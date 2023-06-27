@@ -15,7 +15,7 @@ vshaurme/settings/local.py
 
 /.vscode
 /.DS_Store
-
+/.idea
 # C extensions
 *.so
 
